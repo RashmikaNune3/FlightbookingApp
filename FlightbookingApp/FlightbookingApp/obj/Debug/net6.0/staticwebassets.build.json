@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gko7Mr6CtDvIewJ+KaCJ3WM5zCleULC7iVGb1vNhePI=",
+  "Source": "FlightbookingApp",
+  "BasePath": "_content/FlightbookingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
